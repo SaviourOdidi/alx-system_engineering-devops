@@ -22,3 +22,4 @@ Note: the mode of olleh will not always be 664. Make sure your script works for 
 15) Write a script that changes the owner and the group owner of _hello to vincent and staff respectively.
 The file _hello is in the working directory. The file _hello is a symbolic link
 16) Write a script that changes the owner of the file hello to betty only if it is owned by the user guillaume. The file hello will be in the working directory
+17) Write a script that will play the StarWars IV episode in the terminal
